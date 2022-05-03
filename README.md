@@ -15,3 +15,6 @@ You can try and transfer funds between the users, you can request a loan or you 
 Obviously the data is being refreshed if refreshing.
 You can find some dates implementation along with numbers and a timer for auto auto log-out.
 A pretty minimal yet a smart app.
+
+Can be viewed at:
+https://denilz.github.io/bankistapp/
